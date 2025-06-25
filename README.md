@@ -140,7 +140,7 @@ plt.show()
 ---
 
 ## 📝 Notes
-
+- if you want to run the notebook with the images shown in the presentation, we added a file named images put it in content/ as shown in the last cell and run it 
 - You can select different images by changing the `image_path`.
 - For batch inference or saving masks, loop through images and use `Image.fromarray(...)`.
 
